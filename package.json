@@ -1,0 +1,12 @@
+{
+  "name": "express.js-note-taker",
+  "version": "1.0.0",
+  "description": "This note taking application allows users to make, keep, and delete multiple notes in one place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
