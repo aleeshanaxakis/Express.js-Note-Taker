@@ -3,7 +3,7 @@
 ## Description
 This note taking application allows users to make, keep, and delete multiple notes in one place. 
 
-// Insert screenshot here
+<img width="946" alt="Screenshot 2023-11-06 215731" src="https://github.com/aleeshanaxakis/Express.js-Note-Taker/assets/142005319/8fe9fb7d-99a7-4df5-9635-687a89ed51be">
 
 ## User Story
 AS A small business owner
@@ -25,7 +25,7 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
 ## Installation
-This note taker can be accessed vie the deployed URL: // Insert URL
+This note taker can be accessed vie the deployed URL: https://aleeshanaxakis-note-taker-19c0656e4aec.herokuapp.com/
 
 ## Usage
 Many people use note taking apps for varied purposes. They are very useful applications!
